@@ -43,6 +43,6 @@ In Step 4, the nonlinear camera measurement model and linear lidar model are imp
 | <p align="center" > <img width="80%" src="media/step_3.png" alt=""/> <br> <em>Tracking a single-target base on lidar data</em> </p> |
 | <p align="center" > <img width="80%" src="media/step_3_RMSE.png" alt=""/> <br> <em>RMSE tracking index</em> </p> |
 
-## 4. Video
+## 5. Video
 
 You will find the video that shows the complete operation of the project [HERE](https://youtu.be/STDYBWI_uYw)
