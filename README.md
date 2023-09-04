@@ -1,5 +1,15 @@
 # SENSOR FUSION AND OBJECT TRACKING
    This project use an 3D object detection using lidars data from [Waymo Open Dataset](https://waymo.com/open/). The original project files are from the related [Github repository](https://github.com/udacity/nd013-c2-fusion-starter).
+
+## Introduction
+
+The project consists of four main steps:
+
+Step 1: Implement an extended Kalman filter.
+Step 2: Implement track management including track state and track score, track initialization and deletion.
+Step 3: Implement single nearest neighbour data association and gating.
+Step 4: Apply sensor fusion by implementing the nonlinear camera measurement model and a sensor visibility check.
+
    
 ## 1. Project Step 1
 Step 1 deals with the implementation of an Extended Kalman Filter (EKF) for tracking a simple vehicle based on lidar sensor data.
