@@ -1,4 +1,4 @@
-# SENSOR FUSION AND OBJECT TRACKING
+# Sensor Fusion And Object Tracking
    This project use an 3D object detection using lidars data from [Waymo Open Dataset](https://waymo.com/open/). The original project files are from the related [Github repository](https://github.com/udacity/nd013-c2-fusion-starter).
 
 ## Introduction
